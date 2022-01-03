@@ -48,6 +48,21 @@ Ex: 0x1 to 0xf4240 !
 Value of the #SECoin depends on the demand in services & supply,
 Our Sponsors Offer You Infinite Opportunities & Referral Income !
 
+--
+Note: For Developers / Contributors /  collaborators :
+Contract 1 : SEToken (SET) Max Supply 99999 to Reward Bitcoin Stakers !
+0x2984214d2d7f21e4a0c2e3373d65d83660757ba7
+
+Contract 2 : SEToken (SET) Max Supply 999999 to Reward Ethereum Stakers !
+0x640842443eb190ec8fd2865b3ba63950bc8991e1
+
+Contract 3 : SECoin (SEC)  Limited Supply of 999999 to Reward SECoin Stakers
+0xee946e28eafae93ade8b8bdf5f9f660ff223284e
+
+Contract 4 : SECoin (SEC) Mintable Supply on Demand to Reward SECoin Stakers
+0xd69a98b6b1272fb47d6c7160059d2eb6dc68e41e
+
+
 <!---
 dild26/dild26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
